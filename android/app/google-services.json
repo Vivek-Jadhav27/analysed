@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "194113660858",
+    "project_id": "myopia-d27be",
+    "storage_bucket": "myopia-d27be.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:194113660858:android:93a67f0b6ac4efc9319f83",
+        "android_client_info": {
+          "package_name": "com.example.myopia"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGoU7q1q20wlcIohVhhX_Pe08LQlIXZXg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
