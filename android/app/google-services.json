@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1088290221185",
+    "project_id": "kioski-app",
+    "storage_bucket": "kioski-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1088290221185:android:0ac062733513cb6b627180",
+        "android_client_info": {
+          "package_name": "com.example.kioski"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-fq44djRT8FW1rQWXHi6sVpj1tDwGsxg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
